@@ -32,7 +32,7 @@ Access the application using <ip-address>:8080
 Configure GitHub Actions
 ------------
 
-![GitHub Actions](https://github.com/nishant-nez/powerworkshop-DevOps/blob/main/images/actions.png?raw=true)
+![GitHub Actions](https://github.com/SnehaPoudel/powerworkshop-DevOps/blob/main/ss1.PNG?raw=true)
 
 Pushing Image to DockerHub
 ------------
@@ -52,5 +52,5 @@ Push the Docker Image
 docker push your_username/devops-workshop:latest
 ```
 
-![DockerHub](https://github.com/nishant-nez/powerworkshop-DevOps/blob/main/images/dockerhub.png?raw=true)
+![DockerHub](https://github.com/SnehaPoudel/powerworkshop-DevOps/blob/main/ss2.PNG?raw=true)
 
