@@ -32,10 +32,11 @@ Access the application using <ip-address>:3000
 Configure GitHub Actions
 ------------
 
-![GitHub Actions](https://github.com/SnehaPoudel/powerworkshop-DevOps/blob/main/ss1.PNG?raw=true)
+![GitHub Actions](https://github.com/SnehaPoudel/powerworkshop-DevOps/blob/main/ss3.PNG?raw=true)
 
 Pushing Image to DockerHub
 ------------
+
 
 Build Docker Image
 ``` bash
