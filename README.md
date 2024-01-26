@@ -25,7 +25,7 @@ docker-compose up -d
 Access the Application
 ------------
 
-Access the application using <ip-address>:8080
+Access the application using <ip-address>:3000
 
 ![Site Demo](https://github.com/SnehaPoudel/powerworkshop-DevOps/blob/main/ss.PNG?raw=true)
 
