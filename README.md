@@ -11,7 +11,7 @@ docker build -t workshop .
 
 Run Docker Image
 ``` bash
-docker run -dp 0.0.0.0:8080:80 workshop
+docker run -dp 0.0.0.0:8080:3000 workshop
 ```
 
 Installation using docker-compose.yml
